@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/navanasayfa"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Anasayfa"/>
+        <item android:id="@+id/navprojeler"
+            android:icon="@drawable/iconprojeler"
+            android:title="Projeler"/>
+        <item android:id="@+id/navreferanslar"
+            android:icon="@drawable/iconreferanslar"
+            android:title="Referanslar"/>
+
+    </group>
+    <item android:title="İletişim">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item
+                android:id="@+id/menu_call"
+                android:title="Telefonla Arayın"
+                android:icon="@drawable/phone"/>
+            <item
+                android:id="@+id/menu_email"
+                android:title="E-posta Gönderin"
+                android:icon="@drawable/email"/>
+        </menu>
+    </item>
+</menu>
+

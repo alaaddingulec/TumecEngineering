@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tumec    Engineering</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close  Navigation Drawer</string>
+    <string name="proje1">Tumec Muhendislik, alt yapı ve endüstriyel tesislerin, planlama ve dizayn aşamasından mühendislik ve temin dahil, devreye alma ve teslimine kadar proje döngüsünün tüm hizmetlerini sağlayabilen önde gelen müteahhitlik ve mühendislik firmasıdır.
+15 yılı aşkın tecrübesiyle Tumec Muhendislik, yüksek standartlarda mühendislik, müteahhitlik ve yönetim uzmanlığı gerektiren büyük ölçekli, karmaşık ve zorlu projeleri, performans garantilerini sağlayarak zamanında ve başarıyla gerçekleştirmiştir.</string>
+    <string name="proje2">Tumec Muhendislik insana ve çevreye kaygı ve özen göstererek faaliyetlerini sorumlu ve etik olarak gerçekleştirir.
+        Tumec Muhendislik çalıştığı ülkelerdeki yasaları sıkı şekilde takip eder ve yerel adet ve geleneklere saygılıdır.Tumec Muhendislik politikaları Grup içerisinde sorumlu ve etik davranışı yerleştirmek ve bu değerleri Grup dışı etkileşimlerinde göstermek üzere tasarlanmıştır.
+        Bu çabalar kalite yönetimini, teknoloji ve yenilik aracılığıyla tutarlı şekilde mükemmeliyeti sunmayı çabalamayı, aynı fikirde iş ortaklarını seçmeyi, yolsuzlukla mücadele önlemlerini desteklemeyi adil ve güçlü rekabeti desteklemeyi, güvenli ve tarafsız iş ortamı oluşturmayı, iş yasaları ve değerlerine saygı duymayı, atığı minimize etmeyi, kaynakları optimize etmeyi ve sürdürülebilir çözümler için kararları içerir.</string>
+    <string name="proje3">Proje, yeni sıcak haddehane hattı için yeni bir binanın inşaatı ve mevcut binanın güçlendirilmesi işlerinden oluşmaktadır.</string>
+    <string name="proje4">(İsdemir Yüksek Fırın Projesi)</string>
+    <string name="proje5">Sıcak hava hatları, çanlı tepe sistemi, pompa istasyonu, soğutma sistemi ve fırın gövdesi demontaj işleri
+Çansız tepe sistemi, fırın gövdesi, tuyer sistemi ve tuyer platformları, sıcak hava hatları, skip yükleme sistemi ve diğer ekipmanların montaj işleri
+İnşaat, çelik yapı imalat ve montaj, elektrik ve otomasyon montaj işleri...</string>
+    <string name="teminat_m_z_referanslar_m_zd_r">Teminatımız,Referanslarımızdır</string>
+    <string name="todo">TODO</string>
+</resources>

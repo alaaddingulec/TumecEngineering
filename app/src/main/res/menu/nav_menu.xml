@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn = "navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/navanasayfa"
+            android:icon="@drawable/home"
+            android:iconTint="@color/tumezyazırengi"
+            android:title="Anasayfa" />
+        <item android:id="@+id/navprojeler"
+            android:icon="@drawable/projeler"
+            android:iconTint="@color/tumezyazırengi"
+            android:title="Projeler"/>
+        <item android:id="@+id/navreferanslar"
+            android:icon="@drawable/referanslar"
+            android:iconTint="@color/tumezyazırengi"
+            android:title="Referanslar"/>
+
+    </group>
+    <item android:title="İletişim">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item
+                android:id="@+id/menu_call"
+                android:title="Telefonla Arayın"
+                android:iconTint="@color/tumezyazırengi"
+                android:icon="@drawable/telefon"/>
+            <item
+                android:id="@+id/menu_email"
+                android:title="E-posta Gönderin"
+                android:iconTint="@color/tumezyazırengi"
+                android:icon="@drawable/mail"/>
+
+        </menu>
+    </item>
+</menu>
